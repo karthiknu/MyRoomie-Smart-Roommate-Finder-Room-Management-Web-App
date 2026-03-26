@@ -69,7 +69,15 @@ My_Roomie/
 
 ## 🔄 Application Workflow
 
-![Workflow Diagram](docs/workflow.png)
+<table>
+  <tr>
+    <td><b>1. </b><br><img src="docs/workflow(1).png" width="500" </td>
+    <td><b>2. </b><br><img src="docs/workflow(2).png" width="500" </td>
+    <td><b>3. </b><br><img src="docs/workflow(3).png" width="500" </td>
+    <td><b>4. </b><br><img src="docs/workflow(4).png" width="500" </td>
+  </tr>
+</table>
+
 
 ---
 
