@@ -147,11 +147,14 @@ node_modules/
 
 🚀 DONE
 
+```bash
 Now just run:
+```
+```
 git add .
 git commit -m "Added professional README with diagrams"
 git push
-
+```
 ---
 
 ## 🧠 Future Enhancements
