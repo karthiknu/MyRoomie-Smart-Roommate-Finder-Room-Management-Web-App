@@ -60,8 +60,8 @@ My_Roomie/
 
 ![Architecture Diagram](docs/architecture(1).png)
 ![Architecture Diagram](docs/architecture(2).png)
-![Architecture Diagram](docs/architecture(3).png)
-![Architecture Diagram](docs/architecture(4).png)
+![Architecture Diagram](docs/architecture (3).png)
+![Architecture Diagram](docs/architecture (4).png)
 
 ---
 
