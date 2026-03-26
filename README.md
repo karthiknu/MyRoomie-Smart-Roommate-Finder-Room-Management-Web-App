@@ -58,12 +58,14 @@ My_Roomie/
 
 ## 📊 System Architecture
 
-![Architecture Diagram](docs/architecture(1).png)
-![Architecture Diagram](docs/architecture(2).png)
-![Architecture Diagram](docs/architecture(3).png)
-![Architecture Diagram](docs/architecture(4).png)
-
----
+<table>
+  <tr>
+    <td><b>1. Architecture</b><br><img src="docs/architecture(1).png" width="300" alt="Architecture"></td>
+    <td><b>2. Workflow</b><br><img src="docs/architecture(2).png" width="300" alt="Workflow"></td>
+    <td><b>3. Database</b><br><img src="docs/architecture(3).png" width="300" alt="Database"></td>
+    <td><b>4. UI Design</b><br><img src="docs/architecture(4).png" width="300" alt="UI Design"></td>
+  </tr>
+</table>
 
 ## 🔄 Application Workflow
 
