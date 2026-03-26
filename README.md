@@ -6,7 +6,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Language-blue)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Styling-38B2AC)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
