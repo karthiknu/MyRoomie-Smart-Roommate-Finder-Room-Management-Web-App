@@ -58,7 +58,7 @@ My_Roomie/
 
 ## 📊 System Architecture
 
-![Architecture Diagram](docs/architecture.png)
+![Architecture Diagram](docs/)
 
 ---
 
