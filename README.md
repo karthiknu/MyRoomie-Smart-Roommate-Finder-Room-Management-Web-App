@@ -134,12 +134,15 @@ http://localhost:3000
 
 ⚠️ FINAL IMPORTANT STEP (DON'T MISS)
 
+```bash
 Add this .gitignore file:
+```
+```
 node_modules/
 .env
 .env.local
 .next/
-
+```
 ---
 
 🚀 DONE
