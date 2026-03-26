@@ -60,10 +60,10 @@ My_Roomie/
 
 <table>
   <tr>
-    <td><b>1. Architecture</b><br><img src="docs/architecture(1).png" width="300" alt="Architecture"></td>
-    <td><b>2. Workflow</b><br><img src="docs/architecture(2).png" width="300" alt="Workflow"></td>
-    <td><b>3. Database</b><br><img src="docs/architecture(3).png" width="300" alt="Database"></td>
-    <td><b>4. UI Design</b><br><img src="docs/architecture(4).png" width="300" alt="UI Design"></td>
+    <td><b>1. </b><br><img src="docs/architecture(1).png" width="300" </td>
+    <td><b>2. </b><br><img src="docs/architecture(2).png" width="300" </td>
+    <td><b>3. </b><br><img src="docs/architecture(3).png" width="300" </td>
+    <td><b>4. </b><br><img src="docs/architecture(4).png" width="300" </td>
   </tr>
 </table>
 
